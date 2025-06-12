@@ -1,4 +1,4 @@
-# AMAZING PROGRAM THAT CAN SWAP CHARACTERS IN A STRING !!!
+# AMAZING PROGRAM THAT CAN REVERSE CHARACTERS IN A STRING !!!
 
 A simple program written in C++.
 I save it here just to keep my progres somewhere.
